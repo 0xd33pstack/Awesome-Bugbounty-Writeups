@@ -370,6 +370,7 @@
 - [Ubiquiti bugbounty unifi generic CSRF protection Bypass ](https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/)
 - [Bypass Facebook CSRF](https://blog.darabi.me/2015/04/bypass-facebook-csrf.html)
 - [Facebook CSRF full account takeover](https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover)
+- [CSRF-tokens on pages without no-cache headers leads to ATO - Frans Rosen](https://hackerone.com/reports/260697)
 
 ## Clickjacking (UI redressing attack)
 
@@ -467,6 +468,7 @@
 - [Authentication Bypass on airbnb via oauth tokens theft](https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/)
 - [Inspect element leads to stripe account lockout authentication Bypass](https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/)
 - [Authentication bypass on SSO ubnt.com](https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/)
+- [The Bug That Exposed Your PayPal Password - Alex Birsan](https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9)
 
 ## SQL Injection(SQLI)
 
